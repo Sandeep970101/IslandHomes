@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "368558523208",
+    "firebase_url": "https://island-homes-28d6e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "island-homes-28d6e",
+    "storage_bucket": "island-homes-28d6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368558523208:android:f95a169fed787157ffe97d",
+        "android_client_info": {
+          "package_name": "com.visolutions.ecomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiOwGOyhb0Ow9li_poqJY5mDvDMGG-AJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
